@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #6D3D2D !important;
+			color: #032b07 !important;
 		}
 
 	strong, b {
@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #6D3D2D;
+		color: #032b07;
 		font-size: 3.5em;
 	}
 
@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #6D3D2D;
+			border-color: #032b07;
 		}
 
 	select {
@@ -1953,7 +1953,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #6D3D2D;
+			border-color: #032b07;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2400,7 +2400,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #6D3D2D;
+				background: #032b07;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2616,7 +2616,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #6D3D2D;
+			background-color: #032b07;
 			color: #ffffff !important;
 		}
 
@@ -2624,7 +2624,7 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #6D3D2D;
+				background-color: #032b07;
 			}
 
 			input[type="submit"].primary:active,
@@ -2698,7 +2698,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #6D3D2D;
+		background: #032b07;
 		color: #fff;
 		height: 100%;
 		overflow-y: auto;
@@ -2806,7 +2806,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #6D3D2D !important;
+							color: #032b07 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3074,7 +3074,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #6D3D2D;
+						background: #032b07;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
