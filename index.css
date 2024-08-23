@@ -132,7 +132,7 @@
 
 .u-section-1 .u-layout-wrap-3 {
   width: 1140px;
-  margin: 0 -21px -473px auto;
+  margin: 81px -21px -554px auto;
 }
 
 .u-section-1 .u-layout-cell-6 {
@@ -158,12 +158,12 @@
 .u-section-1 .u-group-1 {
   min-height: 474px;
   height: auto;
-  width: 503px;
+  width: 506px;
   margin: 65px auto 0;
 }
 
 .u-section-1 .u-container-layout-8 {
-  padding: 1px 10px 0;
+  padding: 1px 31px 0 32px;
 }
 
 .u-section-1 .u-text-8 {
@@ -172,7 +172,7 @@
 
 .u-section-1 .u-text-9 {
   font-weight: 400;
-  margin: 15px 0 0;
+  margin: 15px 11px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -259,6 +259,10 @@
     width: 470px;
     height: auto;
   }
+
+  .u-section-1 .u-text-9 {
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 991px) {
@@ -317,6 +321,11 @@
   .u-section-1 .u-group-1 {
     width: 360px;
   }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -355,6 +364,11 @@
 
   .u-section-1 .u-layout-wrap-3 {
     width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
@@ -446,7 +460,7 @@
 .u-section-3 .u-text-3 {
   font-size: 6rem;
   font-weight: 700;
-  margin: -1147px 309px 0 auto;
+  margin: -1146px 309px 0 auto;
 }
 
 .u-section-3 .u-text-4 {
@@ -457,7 +471,7 @@
 }
 
 .u-section-3 .u-text-5 {
-  margin: 17px 4px 0 30px;
+  margin: 16px 30px 0;
 }
 
 .u-section-3 .u-btn-1 {
@@ -478,7 +492,7 @@
 }
 
 .u-section-3 .u-text-7 {
-  margin: 21px 4px 0 30px;
+  margin: 21px 30px 0;
 }
 
 .u-section-3 .u-text-8 {
@@ -488,7 +502,7 @@
 }
 
 .u-section-3 .u-text-9 {
-  margin: 20px 4px 0 30px;
+  margin: 19px 30px 0;
 }
 
 .u-section-3 .u-text-10 {
@@ -498,7 +512,7 @@
 }
 
 .u-section-3 .u-text-11 {
-  margin: 20px 4px 0 30px;
+  margin: 20px 30px 0;
 }
 
 .u-section-3 .u-btn-3 {
@@ -508,7 +522,7 @@
 
 .u-section-3 .u-text-12 {
   font-weight: 500;
-  margin: 68px 0 0 34px;
+  margin: 68px 34px 0;
 }
 
 .u-section-3 .u-btn-4 {
@@ -517,15 +531,9 @@
   padding: 0;
 }
 
-.u-section-3 .u-btn-5 {
-  background-image: none;
-  color: rgba(0, 0, 0, 0);
-  padding: 0;
-}
-
 .u-section-3 .u-text-13 {
   font-weight: 500;
-  margin: 68px 0 48px 35px;
+  margin: 68px 35px 49px;
 }
 
 @media (max-width: 1199px) {
@@ -577,11 +585,13 @@
 
   .u-section-3 .u-text-12 {
     margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-text-13 {
     font-weight: 400;
     margin-left: 0;
+    margin-right: 0;
   }
 }
 
