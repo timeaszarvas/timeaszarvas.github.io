@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,600,600italic|Source+Code+Pro:400");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,600,600italic|Georgia:400,400italic,700,700italic");
 
 /*
 	Read Only by HTML5 UP
@@ -135,6 +135,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #777;
+		font-family: "Georgia";
 		font-weight: 600;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
