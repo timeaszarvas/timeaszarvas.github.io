@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,300italic,600,600italic|Source+Code+Pro:400");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,600,600italic|Source+Code+Pro:400");
 
 /*
 	Read Only by HTML5 UP
@@ -101,7 +101,7 @@ input, select, textarea {
 		color: #888;
 		font-family: "Raleway", sans-serif;
 		font-size: 16pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.75em;
 	}
 
@@ -1906,7 +1906,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 300;
+			font-weight: 400;
 			padding-left: 2.4em;
 			padding-right: 0.75em;
 			position: relative;
@@ -2027,7 +2027,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
-			font-weight: 300;
+			font-weight: 400;
 		}
 
 		.icon > .label {
@@ -2396,7 +2396,7 @@ input, select, textarea {
 				line-height: 1;
 				text-transform: none !important;
 				font-family: 'Font Awesome 5 Free';
-				font-weight: 300;
+				font-weight: 400;
 			}
 
 			ul.feature-icons li:before {
