@@ -122,7 +122,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #777;
-		font-weight: 700;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -135,7 +135,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #777;
-		font-weight: 700;
+		font-weight: 600;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
 	}
@@ -1792,7 +1792,7 @@ input, select, textarea {
 		header.major h2 + p {
 			color: #777;
 			font-size: 1.75em;
-			font-weight: 700;
+			font-weight: 600;
 			margin-top: -0.75em;
 		}
 
@@ -1806,7 +1806,7 @@ input, select, textarea {
 		color: #777;
 		display: block;
 		font-size: 0.9em;
-		font-weight: 700;
+		font-weight: 600;
 		margin: 0 0 1.125em 0;
 	}
 
@@ -1906,7 +1906,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 400;
+			font-weight: 300;
 			padding-left: 2.4em;
 			padding-right: 0.75em;
 			position: relative;
@@ -2027,7 +2027,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
+			font-weight: 300;
 		}
 
 		.icon > .label {
@@ -2396,7 +2396,7 @@ input, select, textarea {
 				line-height: 1;
 				text-transform: none !important;
 				font-family: 'Font Awesome 5 Free';
-				font-weight: 400;
+				font-weight: 300;
 			}
 
 			ul.feature-icons li:before {
@@ -2463,7 +2463,7 @@ input, select, textarea {
 		table th {
 			color: #777;
 			font-size: 0.9em;
-			font-weight: 700;
+			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
 		}
@@ -2522,7 +2522,7 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 700;
+		font-weight: 600;
 		height: 2.75em;
 		line-height: 2.75em;
 		padding: 0 1.5em;
@@ -3036,7 +3036,7 @@ input, select, textarea {
 				#titleBar .title {
 					color: #fff;
 					display: block;
-					font-weight: 700;
+					font-weight: 600;
 					height: 44px;
 					line-height: 44px;
 					padding: 0 1em;
