@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Kanit:400,400italic,700,700italic|Source+Code+Pro:400");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300italic,600,600italic|Source+Code+Pro:400");
 
 /*
 	Read Only by HTML5 UP
@@ -99,9 +99,9 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Kanit", sans-serif;
+		font-family: "Raleway", sans-serif;
 		font-size: 16pt;
-		font-weight: 400;
+		font-weight: 300;
 		line-height: 1.75em;
 	}
 
