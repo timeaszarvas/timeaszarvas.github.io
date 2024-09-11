@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #777;
+		color: #666;
 		font-family: "Quicksand", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -122,7 +122,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #777;
+		color: #666;
 		font-weight: 600;
 	}
 
@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #666;
 		font-family: "Bagnard";
 		font-weight: 600;
 		line-height: 1em;
@@ -1792,7 +1792,7 @@ input, select, textarea {
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #666;
 			font-size: 1.75em;
 			font-weight: 600;
 			margin-top: -0.75em;
@@ -1805,7 +1805,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #777;
+		color: #666;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
@@ -1864,7 +1864,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #777;
+			color: #666;
 			background: #fff;
 		}
 
@@ -1904,7 +1904,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #777;
+			color: #666;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2463,7 +2463,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #777;
+			color: #666;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2589,7 +2589,7 @@ input, select, textarea {
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e4e4e4;
-			color: #777 !important;
+			color: #666 !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2597,7 +2597,7 @@ input, select, textarea {
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background-color: #f4f4f4;
-				color: #777 !important;
+				color: #666 !important;
 			}
 
 			input[type="submit"].alt:active,
@@ -2643,7 +2643,7 @@ input, select, textarea {
 		input[type="button"]:disabled,
 		.button.disabled,
 		.button:disabled {
-			background-color: #777 !important;
+			background-color: #666 !important;
 			box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
 			color: #fff !important;
 			cursor: default;
