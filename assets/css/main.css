@@ -1,6 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Quicksand:500,500italic,700,700italic");
-@import url("https://fonts.googleapis.com/css?family=Georgia:400,400italic,700,700italic");
+@import url("https://fonts.googleapis.com/css?family=Quattrocento:400,400italic,700,700italic");
 
 /*
 	Read Only by HTML5 UP
@@ -147,8 +147,8 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
-	h1, h2 {
-		font-family: "Georgia";
+	h1, h2, h3 {
+		font-family: "Quattrocento";
 	}
 
 	h2 {
