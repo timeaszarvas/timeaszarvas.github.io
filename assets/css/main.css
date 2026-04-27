@@ -190,7 +190,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #F5F3EF;
+		border-bottom: solid 2px #937A24;
 		margin: 2.25em 0;
 	}
 
@@ -1997,7 +1997,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 5px;
-		border: solid 2px #F5F3EF;
+		border: solid 2px #937A24;
 		margin-bottom: 2.25em;
 		padding: 1.5em;
 	}
@@ -2458,7 +2458,7 @@ input, select, textarea {
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: #F5F3EF;
+				background-color: #937A24;
 			}
 
 		table td {
@@ -2828,7 +2828,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #F5F3EF;
+		border-top: solid 6px #937A24;
 	}
 
 		#main > section > .container {
