@@ -84,7 +84,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #F7F4E8;
+		background: #FFFFFF;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1763,38 +1763,38 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	header p {
+	 p {
 		color: #2F352D;
 		position: relative;
 		margin: 0 0 1.6875em 0;
 	}
 
-	header h2 + p {
+	 h2 + p {
 		font-size: 1.25em;
 		margin-top: -0.5em;
 		line-height: 1.5em;
 	}
 
-	header h3 + p {
+	 h3 + p {
 		font-size: 1.1em;
 		margin-top: -0.35em;
 		line-height: 1.5em;
 	}
 
-	header h4 + p,
-	header h5 + p,
-	header h6 + p {
+	 h4 + p,
+	 h5 + p,
+	 h6 + p {
 		font-size: 0.9em;
 		margin-top: -0.25em;
 		line-height: 1.5em;
 	}
 
-	header.major h2 {
+	.major h2 {
 		color: #D6D0B7;
 		font-size: 3.5em;
 	}
 
-		header.major h2 + p {
+		.major h2 + p {
 			color: #2F352D;
 			font-size: 1.75em;
 			font-weight: 600;
@@ -2715,19 +2715,19 @@ input, select, textarea {
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #F7F4E8;
+			color: #2F352D;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-				color: #F7F4E8;
+				color: #2F352D;
 			}
 
 		#header header p {
-			color: #ab7474;
+			color: #2F352D;
 		}
 
 		#header a {
-			color: #F7F4E8;
+			color: #2F352D;
 		}
 
 			#header a:hover {
@@ -2803,7 +2803,7 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #F7F4E8 !important;
+						color: #2F352D !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
@@ -2828,7 +2828,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 4px #D9D2C4;
+		border-top: solid 2px #D9D2C4;
 	}
 
 		#main > section > .container {
@@ -2856,7 +2856,7 @@ input, select, textarea {
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px #d4d4d4;
+				border-left: solid 1px #D9D2C4;
 				display: inline-block;
 				font-size: 0.8em;
 				margin-left: 1em;
