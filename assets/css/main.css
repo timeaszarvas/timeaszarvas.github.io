@@ -1,6 +1,6 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Inter:300,300italic,500,500italic");
-@import url("https://fonts.googleapis.com/css?family=Cormorant Garamond:400,400italic,700,700italic");
+@import url("https://fonts.googleapis.com/css?family=Inter:200,200italic,400,400italic");
+@import url("https://fonts.googleapis.com/css?family=Cormorant Garamond:300,300italic,600,600italic");
 
 /*
 	Read Only by HTML5 UP
@@ -2711,7 +2711,8 @@ input, select, textarea {
 		text-align: center;
 		top: 0;
 		width: 15em;
-		right: 0;
+		left: 0;
+		right: auto;
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
