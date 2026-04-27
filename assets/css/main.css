@@ -27,7 +27,7 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+footer, , hgroup, menu, nav, section {
 	display: block;}
 
 body {
@@ -2710,7 +2710,7 @@ input, select, textarea {
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 23em;
+		width: 15em;
 		right: 0;
 	}
 
