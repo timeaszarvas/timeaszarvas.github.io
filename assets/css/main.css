@@ -1770,23 +1770,17 @@ input, select, textarea {
 	}
 
 	 h2 + p {
-		font-size: 1.25em;
-		margin-top: -0.5em;
-		line-height: 1.5em;
+		font-size: inherit;
 	}
 
 	 h3 + p {
-		font-size: 1.1em;
-		margin-top: -0.35em;
-		line-height: 1.5em;
+		font-size: inherit;
 	}
 
 	 h4 + p,
 	 h5 + p,
 	 h6 + p {
-		font-size: 0.9em;
-		margin-top: -0.25em;
-		line-height: 1.5em;
+		font-size: inherit;
 	}
 
 	.major h2 {
@@ -3162,7 +3156,7 @@ input, select, textarea {
 			}
 
 				header.major h2 + p {
-					font-size: 1.5em;
+					font-size: inherit;
 				}
 
 		/* Features */
