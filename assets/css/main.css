@@ -2989,8 +2989,9 @@ input, select, textarea {
 				-moz-transform: translateX(23em);
 				-webkit-transform: translateX(23em);
 				-ms-transform: translateX(23em);
-				transform: translateX(23em);
-				right: 0;
+				transform: translateX(-23em);
+				left: 0;
+				right: auto;
 			}
 
 				#header > footer {
@@ -3095,10 +3096,10 @@ input, select, textarea {
 					}
 
 			body.header-visible #wrapper, body.header-visible #titleBar {
-				-moz-transform: translateX(-23em);
-				-webkit-transform: translateX(-23em);
-				-ms-transform: translateX(-23em);
-				transform: translateX(-23em);
+				-moz-transform: translateX(23em);
+				-webkit-transform: translateX(23em);
+				-ms-transform: translateX(23em);
+				transform: translateX(23em);
 			}
 
 			body.header-visible #header {
@@ -3182,20 +3183,23 @@ input, select, textarea {
 
 			#header {
 				width: 17em;
-				-moz-transform: translateX(17em);
-				-webkit-transform: translateX(17em);
-				-ms-transform: translateX(17em);
-				transform: translateX(17em);
-				right: 0;
+				-moz-transform: translateX(-17em);
+				-webkit-transform: translateX(-17em);
+				-ms-transform: translateX(-17em);
+				transform: translateX(-17em);
+				left: 0;
+				right: auto;
 			}
 
 				#header > header {
 					padding: 2em;
+					text-align: center;
 				}
 
 					#header > header .avatar {
-						margin: 0 auto 1.6875em auto;
+						margin: 0 auto 1.5em auto;
 						width: 6em;
+						display: block;
 					}
 
 					#header > header h1 {
@@ -3247,10 +3251,10 @@ input, select, textarea {
 				}
 
 			body.header-visible #wrapper, body.header-visible #titleBar {
-				-moz-transform: translateX(-17em);
-				-webkit-transform: translateX(-17em);
-				-ms-transform: translateX(-17em);
-				transform: translateX(-17em);
+				-moz-transform: translateX(17em);
+				-webkit-transform: translateX(17em);
+				-ms-transform: translateX(17em);
+				transform: translateX(17em);
 			}
 
 	}
